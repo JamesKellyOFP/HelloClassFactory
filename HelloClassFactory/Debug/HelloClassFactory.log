@@ -1,0 +1,11 @@
+﻿  Encryptor.cpp
+  FlexibleHello3.cpp
+  LoudMessage.cpp
+  LoudMessageFactory.cpp
+  Message.cpp
+  MessageFactory.cpp
+  Name.cpp
+  SecureMessage.cpp
+  SecureMessageFactory.cpp
+  Generating Code...
+  HelloClassFactory.vcxproj -> C:\Users\jrkel\Documents\SoftwareEngineering\V3HelloClassFactory\Debug\HelloClassFactory.exe
